@@ -94,13 +94,13 @@ export default function HomePage() {
             <h1 className="hero-title">
               <span className="hero-title-purple">Diseñadora UX/UI,</span>
               <br />
-              Creadora de
+               Interfaces digitales
               <br />
-              experiencias digitales
+              que resuelven problemas
             </h1>
             <p className="hero-description">
-              Creo experiencias digitales basadas en investigación, usabilidad y diseño visual. Cada proyecto combina
-              estrategia, creatividad y validación con usuarios para generar soluciones funcionales y estéticas.
+              7+ años diseñando productos digitales para web y mobile. He trabajado con equipos internacionales y clientes de múltiples industrias.
+              Mi especialidad: convertir requerimientos complejos en interfaces claras, intuitivas y usables
             </p>
             <div className="hero-buttons">
               <Link to="/portfolio" className="btn-primary">
@@ -185,17 +185,14 @@ export default function HomePage() {
               <p className="section-label-center">Conoce</p>
               <h2 className="section-title-center">Sobre mí</h2>
               <p>
-                Soy una diseñadora UX/UI con más de siete años de experiencia en diseño visual y dos años creando productos digitales para sectores como salud, educación, estética, deportes y contract. Me caracterizo por unir sensibilidad estética con pensamiento estructurado: diseño interfaces funcionales, intuitivas y con intención.
-              </p>
+                Empecé a diseñar por curiosidad — quería entender cómo se hacían las intros de los videos de YouTube que veía de niña. Lo que empezó como un juego con Photoshop y After Effects a los 12 años, se convirtió en carrera.              </p>
               <p>
                 A lo largo de mi experiencia, he trabajado en proyectos que requieren investigación, conceptualización, arquitectura de información, prototipado y validación con usuarios. Me gusta entender cómo piensan las personas, qué necesitan y cómo puedo traducir eso en productos claros, útiles y visualmente coherentes.
               </p>
               <p>
-                Trabajo con herramientas como Figma, Adobe XD, Illustrator y Photoshop, y tengo conocimientos base en HTML, CSS y JavaScript, lo que me permite diseñar pensando en la implementación real.
-              </p>
+                "Mi fortaleza está en equilibrar lo visual y lo funcional por igual. No diseño solo para que se vea bien — diseño para que funcione."              </p>
               <p>
-                Soy una persona curiosa, detallista y creativa. Me inspiran los colores, las texturas, las personas y las buenas historias. Me gusta diseñar experiencias que no solo funcionen, sino que también transmitan algo lindo y humano.
-              </p>
+               Hoy tengo más de 7 años de experiencia diseñando productos digitales para web, mobile y apps en sectores como salud, educación, e-commerce y deportes. He trabajado con equipos internacionales, entornos corporativos y startups — y me adapto bien a todos.              </p>
               <p>
                 Actualmente me enfoco en crecer como diseñadora de producto digital, fortaleciendo mis habilidades en UX, UI y validación con usuarios, mientras sigo explorando nuevas formas de crear experiencias significativas.
               </p>
