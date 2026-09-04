@@ -5,7 +5,7 @@ const portfolioData = [
     id: "ux-ui",
     title: "Diseño UX/UI",
     description:
-      "En esta sección encontrarás una recopilación de piezas diseñadas para espacios físicos y comunicación visual impresa. Desde murales hasta señalética y elementos de gran formato, cada diseño fue pensado para captar la atención, comunicar con claridad y reforzar la identidad visual de las marcas en contextos reales.\nEstas piezas son una muestra del diseño llevado más allá de la pantalla, adaptado a entornos comerciales, vitrinas, puntos de venta y espacios institucionales.",
+      "En esta sección encontrarás una selección de proyectos digitales de extremo a extremo: desde landing pages y portales web hasta aplicaciones móviles nativas.\nCada proyecto fue pensado para resolver un problema real de negocio, combinando investigación de usuario, arquitectura de información y diseño visual, con foco en la experiencia y en resultados medibles como conversión, retención y satisfacción del usuario.",
     items: [
       {
         slug: "sistema-de-landings",
